@@ -7,5 +7,6 @@ class Program {
     int age = 20;
     Console.WriteLine ($"Hello world {firstName} {lastName} Age: {age}");
     Console.WriteLine ("Hello World" +  firstName + " " +  lastName + " " + age);
+    Console.WriteLine ("How did this happenned")
   }
 }
